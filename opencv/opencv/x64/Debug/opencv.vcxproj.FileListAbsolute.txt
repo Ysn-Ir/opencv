@@ -1,0 +1,1 @@
+C:\Users\ouali\source\repos\opencv\opencv\x64\Debug\opencv.vcxproj.CopyComplete
